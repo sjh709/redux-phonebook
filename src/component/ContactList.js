@@ -8,7 +8,7 @@ const ContactList = () => {
       <div className='search-box'>
         <SearchBox />
       </div>
-      <div className='list-area'>
+      <div>
         <ContactItem />
       </div>
     </>
